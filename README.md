@@ -29,4 +29,5 @@ Notes:
 - This is a simple implementation suitable for learning or basic projects.
 - For production use, enhance security measures such as password hashing and input sanitization.
 
-
+- Contact:
+For questions, improvements contact thakurr10911@gmail.com.
